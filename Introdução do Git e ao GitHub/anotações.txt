@@ -1,0 +1,3 @@
+link para dowload Git:https://git-scm.com/downloads
+
+O git bash: Console para um terminal extendido para otimizar
